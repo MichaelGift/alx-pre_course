@@ -1,2 +1,2 @@
 Updated first readme.
-Pre_course Practce
+Pre-course Practce
